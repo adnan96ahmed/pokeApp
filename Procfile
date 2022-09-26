@@ -1,0 +1,1 @@
+web: gunicorn pokeApp.wsgi --log-file -

@@ -1,0 +1,30 @@
+.PokemonList {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px 0px 0px 0px;
+}
+
+.ToggleButton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0px 0px 20px 0px;
+}
+
+table {
+  border: 2px solid black;
+  width: 800px;
+  height: 200px;
+  margin-bottom: 50px;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+
+td {
+  text-align: center;
+  border: 2px solid black;
+}
