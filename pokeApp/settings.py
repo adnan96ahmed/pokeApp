@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-60%yx))07k&a)@i80e6$btz9x@2k_3+z+@o@=y46&rlb$bh+=z'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['adnan-pokemonapp.herokuapp.com', '127.0.0.1:8000']
 
